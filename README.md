@@ -6,4 +6,5 @@ Our understanding of the molecular pathology of posttraumatic stress disorder (P
 
 ## Citation
 
-10.5281/zenodo.6782309
+[![DOI](https://zenodo.org/badge/508541223.svg)](https://zenodo.org/badge/latestdoi/508541223)
+
